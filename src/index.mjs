@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = "<h1>Soy un h1</h1>"
